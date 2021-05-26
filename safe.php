@@ -8,13 +8,6 @@
 </head>
 <body>
 
-
-
-
-
-
-
-
 <?php
 
 if (isset($_POST["login"])) {
